@@ -1,0 +1,14 @@
+{
+  "name": "agent-server",
+  "version": "1.0.0",
+  "description": "Powerful autonomous build agent",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "cors": "^2.8.5"
+  },
+  "type": "commonjs"
+}
